@@ -1,0 +1,5 @@
+This is a course on complete web development with Theodinproject.
+The course aim at teaching everyone who is willing to become a web developer the complete course for free.
+This is my first project and my first github repo.
+I am dedicated to me this happen.
+Thank you theodinproject!
